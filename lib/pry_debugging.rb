@@ -4,5 +4,5 @@ def plus_two(num)
 	num
 	plus_two(5)
 	binding.pry
-	
-end
+	end
+	plus_two(5)
